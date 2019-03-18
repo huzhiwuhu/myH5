@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>唐诗和小萝莉</title>
+    <style type="text/css">
+        body{
+            background-image: url(./images/1.JPG);
+            background-size: 100% 100%;
+            height: 100%;
+        }
+        html{
+            height:100%;
+        }
+        @keyframes myfirst {
+            0% {opacity: 0}
+            25% {opacity: 100}
+            50% {opacity: 0}
+            100% {opacity: 0}
+        }
+        @keyframes mysecond {
+            0% {opacity: 0}
+            50% {opacity: 0}
+            75% {opacity: 100}
+            100% {opacity: 0}
+        }
+        p{
+            font-size:200px;
+            position:absolute;
+            width:100%;
+            text-align:center;
+        }
+        #canghai{
+            animation: myfirst 8s infinite;
+        }
+        #taotao{
+            animation: mysecond 8s infinite;
+        }
+    </style>
+</head>
+<body>
+<p id="canghai">苍天笑</p>
+<p id="taotao">滔滔两岸潮</p>
+</body>
+</html>
