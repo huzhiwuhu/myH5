@@ -4,7 +4,6 @@ html,body,page{
     margin:0;
 }
 page{
-    font-size:80px;
     font-size:180px;
     position:absolute;
     padding-top:30%;
@@ -13,6 +12,8 @@ page{
 #c{
     background-color: lightgreen;
     animation: c 10s infinite;
+    background-image: url('../images/1.jpg');
+    background-size: 100% 80%;
 }
 #x{
     background-color: red;
@@ -26,6 +27,19 @@ page{
     background-color: black;
     animation: d 10s infinite;
     color: white;
+}
+#z{
+    font-size: 36px;
+    display:block;
+    animation: z 10s infinite;
+
+}
+@keyframes z{
+    0%{opacity: 0}
+    70%{opacity: 0}
+    80%{opacity: 100}
+    90%{opacity: 100}
+    100%{opacity: 0}
 }
 @keyframes c{
     0%{opacity: 0}
