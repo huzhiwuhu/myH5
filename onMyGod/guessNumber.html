@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            font-size:100px;
+            color:blue;
+        }
+    </style>
+
+</head>
+<body>
+<p id="message"></p>
+</body>
+</html>
+
+<script>
+    var random = Math.random();     //随机数函数
+    var bingo = false;
+        function guess(){
+            if(bingo){
+                return;
+            }
+            var str;
+            var guess = prompt("您猜骰子是多大（1-6）");
+            var diff = Math.abs(random-guess);
+                if(!Number.isInteger(guess/1 || guess>6 || guess<1)){             //除号会让赋值语句两边变成数值型
+                document.getElementById("message").innerHTML = "您的输入有误";
+                return;
+            }
+            console.info("random==="+random);    //在控制端输出
+            console.info("guess==="+guess);
+            console.info("diff==="+diff);
+            if(random == guess){
+                str = "您猜中了！"+"<img src =\"images/"+random+"[1].png\" />";
+                //用来往网页插入数据并且显示相应数目的骰子的点数图片
+                bingo = true;
+            }
+            else if(guess>random && diff>1){
+                str = "您猜的太大了！";
+            }
+            else if(guess>random && diff<=1){
+                str = "您猜的有点大了！";
+            }else if(guess<random && diff>1){
+                str = "您猜的太小了！";
+            }else{
+                str = "您猜的有点小了！";
+        }
+         document.getElementById("message").innerHTML = str;
+    }
+
+    random = Math.floor(random*6)+1;
+    console.info(random);
+    guess();
+    guess();
+    guess();
+    if(bingo==0){
+        str="您没猜中 很抱歉机会用完了！";
+    }
+</script>
+
+
+<!--将<script>放在最后，考虑到<body>里的情况。因为放在<body>之前的话，程序是从上往下执行的，
+在完全加载完成之前就使用<body>里的东西，从而引起错误或警告-->
