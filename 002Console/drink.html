@@ -20,6 +20,7 @@
         count = prompt(price+"元一杯，您要多少杯");
         if(isNaN(count)){
             document.write("这根本不是一个数字！！");
+            count = prompt(price+"元一杯，您要多少杯");
         }
         else {
             if (isInteger(count)) {

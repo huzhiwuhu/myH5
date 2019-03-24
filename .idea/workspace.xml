@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="497a0787-6542-4aed-9a24-f328b5707d87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/snc/animation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snc/page.html" afterDir="false" />
+    <list default="true" id="497a0787-6542-4aed-9a24-f328b5707d87" name="Default Changelist" comment="modify">
+      <change afterPath="$PROJECT_DIR$/003OnMyGod/dice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003OnMyGod/question.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003OnMyGod/showMeTheWay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004MouseEvent/dressup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004MouseEvent/images/dressup/body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004MouseEvent/images/dressup/lower1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004MouseEvent/images/dressup/lower2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004MouseEvent/images/dressup/upper1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004MouseEvent/images/dressup/upper2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004MouseEvent/images/dressup/upper3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004MouseEvent/images/music.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004MouseEvent/images/stoped.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004MouseEvent/music.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004MouseEvent/shu7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004MouseEvent/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001Basics/snc/css/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/001Basics/snc/css/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002Console/drink.html" beforeDir="false" afterPath="$PROJECT_DIR$/002Console/drink.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onMyGod/guessNumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/003OnMyGod/guessNumber.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,14 +32,55 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/004MouseEvent/music.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="23" column="99" lean-forward="true" selection-start-line="23" selection-start-column="99" selection-end-line="23" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/004MouseEvent/dressup.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="23" column="48" lean-forward="true" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/004MouseEvent/shu7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alert</find>
+      <find>a</find>
+      <find>document.getElementById(&quot;message&quot;).innerHTML</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>document.write()</replace>
+      <replace>random</replace>
+      <replace>str</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +91,22 @@
         <option value="$PROJECT_DIR$/snc/index.html" />
         <option value="$PROJECT_DIR$/2.html" />
         <option value="$PROJECT_DIR$/snc/test.html" />
+        <option value="$PROJECT_DIR$/002Console/js/alert.js" />
+        <option value="$PROJECT_DIR$/002Console/alert.html" />
+        <option value="$PROJECT_DIR$/002Console/calculate.html" />
+        <option value="$PROJECT_DIR$/002Console/password.html" />
+        <option value="$PROJECT_DIR$/002Console/js/age.html" />
+        <option value="$PROJECT_DIR$/002Console/age.html" />
+        <option value="$PROJECT_DIR$/onMyGod/showMeTheWay.html" />
+        <option value="$PROJECT_DIR$/onMyGod/dice.html" />
+        <option value="$PROJECT_DIR$/002Console/drink.html" />
+        <option value="$PROJECT_DIR$/onMyGod/guessNumber.html" />
+        <option value="$PROJECT_DIR$/onMyGod/question.html" />
+        <option value="$PROJECT_DIR$/004MouseEvent/test.html" />
+        <option value="$PROJECT_DIR$/004MouseEvent/shu7.html" />
+        <option value="$PROJECT_DIR$/004MouseEvent/music.html" />
+        <option value="$PROJECT_DIR$/004MouseEvent/images/dressup/dressup.html" />
+        <option value="$PROJECT_DIR$/004MouseEvent/dressup.html" />
       </list>
     </option>
   </component>
@@ -49,8 +122,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myH5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myH5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myH5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myH5" type="462c0819:PsiDirectoryNode" />
+              <item name="004MouseEvent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myH5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myH5" type="462c0819:PsiDirectoryNode" />
+              <item name="004MouseEvent" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myH5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myH5" type="462c0819:PsiDirectoryNode" />
+              <item name="004MouseEvent" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="dressup" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -64,6 +165,12 @@
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/huzhiwuhu/myH5.git" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\webstorm\WebStorm 2018.3.5\project\myH5\004MouseEvent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\webstorm\WebStorm 2018.3.5\project\myH5\onMyGod" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -91,6 +198,10 @@
       <workItem from="1552827485319" duration="2842000" />
       <workItem from="1553170986184" duration="19000" />
       <workItem from="1553171099254" duration="27000" />
+      <workItem from="1553250838641" duration="9953000" />
+      <workItem from="1553306287406" duration="10317000" />
+      <workItem from="1553347924853" duration="778000" />
+      <workItem from="1553390684002" duration="16093000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1552829520613</created>
@@ -113,16 +224,73 @@
       <option name="project" value="LOCAL" />
       <updated>1552830089625</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="modify">
+      <created>1553254190418</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553254190418</updated>
+    </task>
+    <task id="LOCAL-00005" summary="modify">
+      <created>1553256481774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553256481774</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modify">
+      <created>1553256500327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553256500327</updated>
+    </task>
+    <task id="LOCAL-00007" summary="modify">
+      <created>1553257096612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553257096612</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modify">
+      <created>1553261682903</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553261682903</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modify">
+      <created>1553308277620</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553308277620</updated>
+    </task>
+    <task id="LOCAL-00010" summary="modify">
+      <created>1553308877220</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1553308877220</updated>
+    </task>
+    <task id="LOCAL-00011" summary="modify">
+      <created>1553394010304</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1553394010304</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2888000" />
+    <option name="totallyTimeSpent" value="40029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1748512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -136,6 +304,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32903227" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -149,13 +318,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="modify" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/snc/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/snc/index.html" />
     <entry file="file://$PROJECT_DIR$/2.html" />
     <entry file="https://github.com/huzhiwuhu/myH5.git">
       <provider selected="true" editor-type-id="httpFileEditor" />
@@ -163,13 +326,136 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/snc/images/1.JPG">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/snc/images/1.JPG" />
+    <entry file="file://$PROJECT_DIR$/snc/test.html" />
+    <entry file="file://$PROJECT_DIR$/002Console/js/alert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snc/test.html">
+    <entry file="file://$PROJECT_DIR$/002Console/alert.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002Console/calculate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002Console/js/age.html" />
+    <entry file="file://$PROJECT_DIR$/002Console/password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002Console/age.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001Basics/snc/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001Basics/snc/animation.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001Basics/snc/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001Basics/snc/表白.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001Basics/snc/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003OnMyGod/images/1[1].png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002Console/drink.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003OnMyGod/dice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003OnMyGod/showMeTheWay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003OnMyGod/question.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003OnMyGod/guessNumber.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004MouseEvent/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004MouseEvent/images/dressup/lower1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004MouseEvent/music.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="99" lean-forward="true" selection-start-line="23" selection-start-column="99" selection-end-line="23" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004MouseEvent/shu7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004MouseEvent/images/dressup/upper1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004MouseEvent/dressup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="23" column="48" lean-forward="true" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            font-size: 100px;
+        }
+    </style>
+
+    <script>
+        function getAnsawer(){
+            var random = Math.floor(Math.random()*4+1);
+            var str = String.fromCharCode(random+64);
+            doucment.write(str);
+        }
+        function get5Answers(){
+            getAnsawer();
+            getAnsawer();
+            getAnsawer();
+            getAnsawer();
+            getAnsawer();
+            docunemnt.write("<br/>"); //进行网页换行
+        }
+        get5Answers();
+        get5Answers();
+        get5Answers();
+        get5Answers();
+    </script>
+</head>
+<body>
+
+</body>
+</html>
