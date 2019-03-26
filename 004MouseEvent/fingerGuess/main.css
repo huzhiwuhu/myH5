@@ -1,0 +1,29 @@
+#container{
+    width:600px;
+    height:300px;
+    border:black solid 5px;
+    margin:0 auto;
+}
+#container>div{                      /*container下的div标签*/
+    width:300px;
+    height:300px;
+    float:left;
+}
+#mine{
+    background-color: lightgreen;
+}
+#computer{
+    background-color:lightblue;
+}
+#computerchoice>IMG{
+    transform: scalex(-1);              /*进行水平翻转*/
+}
+h1{
+    margin-top:0;                      /*上边距是0*/
+    text-align:center;
+}
+#container>#result {
+    font-size: 60px;
+    width: 600px;
+    text-align: center;
+}
